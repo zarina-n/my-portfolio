@@ -1,7 +1,7 @@
-import './styles.css'
+import './styles.scss'
 
 const App = () => {
-  return <h1>This is my portfolio v2</h1>
+  return <h1>hi</h1>
 }
 
 export default App
